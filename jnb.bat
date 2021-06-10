@@ -9,4 +9,4 @@ echo Starting Jupyter Notebooks
 jupyter notebook
 
 echo Deactivate the virtual environment
-.\venv\Scripts\deactivate
+call .\venv\Scripts\deactivate
